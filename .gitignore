@@ -158,3 +158,6 @@ vscode/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Ignore data folder
+data/
