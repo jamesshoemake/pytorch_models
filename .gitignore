@@ -161,3 +161,4 @@ vscode/
 
 # Ignore data folder
 data/
+runs/
